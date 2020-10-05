@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/BellBoyZz/demo-pyci.svg?branch=master)](https://travis-ci.com/BellBoyZz/demo-pyci)
+[![codecov](https://codecov.io/gh/BellBoyZz/demo-pyci/branch/master/graph/badge.svg?token=MH6W96B1YA)](undefined)
 
 Continuous Integration Demo
 ============================
